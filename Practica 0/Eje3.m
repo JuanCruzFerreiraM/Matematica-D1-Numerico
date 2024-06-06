@@ -1,6 +1,6 @@
 %Genera un grafica de la evolucion de la poscion y la velocidad de un pelota que cae desde una altura h0 con una velocidad inicial v0.
 
-t = 0:0.5:10;
+t = 0:0.5:20;
 h_0 = input('Ingrese la altura incial de la pelota en metros: ');
 v_0 = input('Ingrese la velocidad inicial de la pelota en metros sobre segundos: ');
 g = 9.8; %gravedad en la tierra.
