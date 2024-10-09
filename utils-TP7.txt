@@ -1,0 +1,35 @@
+-- Tema General --
+
+Contaminacion por agrotoxicos en la Provincia de Buenos Aires
+
+-- Propuesta -- 
+
+Optimización del uso de agroquímicos en la Provincia de Buenos Aires mediante recursos tecnológicos
+
+-- Objetivo General --
+
+Implementar un sistema automatizado basado en sensores IoT y microcontroladores para monitorear las condiciones de los cultivos en tiempo real, 
+optimizando así el uso de agroquímicos (como el glifosato) y reduciendo su impacto ambiental.
+
+
+-- Objetivo Especifico -- 
+
+Implementar un sistema de comunicaciones seguro y robusto entre los sensores, los microcontroladores y la interfaz de usuario, 
+que asegure la transmisión de datos sin interrupciones y proteja la integridad de la información.
+Este objetivo permitirá trabajar en la selección y desarrollo de protocolos de comunicación adecuados 
+(por ejemplo, Wi-Fi, LoRa) y en la seguridad de los datos para evitar pérdidas o alteraciones.
+
+-- Audiencia --
+
+Grupo de Autoridades (incluye al ministro) y asesores del ministerio de desarrollo agricola de la provincia de buenos aires
+
+-- Lluvia de ideas -- 
+
+5. Implementar un sistema de comunicaciones seguro y robusto
+
+Lluvia de ideas:
+
+    Selección de protocolo de comunicación: Investigar y seleccionar el protocolo de comunicación más adecuado (Wi-Fi, LoRa, Zigbee) en función de la distancia de transmisión y las condiciones del terreno.
+    Seguridad en la transmisión de datos: Implementar técnicas de cifrado para proteger los datos transmitidos entre los sensores, los microcontroladores y la interfaz de usuario, asegurando la integridad de la información.
+    Redundancia en las comunicaciones: Diseñar un sistema de comunicaciones redundante que permita mantener la transmisión de datos activa en caso de fallo de algún nodo o problema con el protocolo seleccionado.
+    Minimización de la latencia: Optimizar la infraestructura de comunicación para reducir la latencia y garantizar que los datos sean transmitidos y procesados en tiempo real.
